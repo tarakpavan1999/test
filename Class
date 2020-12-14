@@ -1,1 +1,18 @@
 Today class
+Ssh username@<up>  .....> To login Linux mission 
+Ssh -i <private key> <username>@<up>
+Pwd ....> Present working directory
+If config ...> To check ip address of Linux
+Ip config ...> To check ip address
+Su root ......> To switch root username
+Su <username> ..> to switch user 
+Cd ..    .......> One step back 
+Cd -     ....> Previous step 
+Ls   ........> Long list of directory
+Touch <file nm>  ...> To create empty file 
+Cat filenm ......> To given file check
+Cat > filenm ....> To create content and overide
+Cat >> filenm ....> To append content in the file
+Rm filenm ...> To remove file
+Rm-f filenm ....> Remove forcefully
+Mkdir filenm ....> To create a directory
