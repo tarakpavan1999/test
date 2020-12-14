@@ -15,4 +15,5 @@ Cat > filenm ....> To create content and overide
 Cat >> filenm ....> To append content in the file
 Rm filenm ...> To remove file
 Rm-f filenm ....> Remove forcefully
-Mkdir filenm ....> To create a directory
+Mkdir  ....> To create a directory
+Rmdir ......> To del directory
